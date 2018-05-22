@@ -1,1 +1,12 @@
-{"name":"myApp","version":"","description":"","main":"myMain","author":"","license":"","language":"MyLang","scripts":{"start":"MyScript"}}
+{
+  "name":"myApp",
+  "version":"",
+  "description":"",
+  "main":"myMain",
+  "author":"",
+  "license":"",
+  "language":"MyLang",
+  "scripts":{
+    "start":"MyScript"
+  }
+}
